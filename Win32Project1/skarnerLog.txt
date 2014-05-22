@@ -1,0 +1,44 @@
+TIME TO ATTACK: 0
+Skarner Attacking with 58.3 damage
+Skarner dealing magic with 0 Mdamage
+Q COOLD DOWN2.5
+TIME TO ATTACK: 1.6
+Skarner Attacking with 58.3 damage
+Skarner dealing magic with 0 Mdamage
+Q COOLD DOWN1.5
+TIME TO ATTACK: 3.1
+Skarner Attacking with 58.3 damage
+Skarner dealing magic with 0 Mdamage
+Q COOLD DOWN0.5
+TIME TO ATTACK: 4.7
+Skarner Attacking with 58.3 damage
+Skarner dealing magic with 0 Mdamage
+Q COOLD DOWN-0.5
+TIME TO ATTACK: 6.3
+Skarner Attacking with 58.3 damage
+Skarner dealing magic with 0 Mdamage
+Q COOLD DOWN-1.5
+TIME TO ATTACK: 7.8
+Skarner Attacking with 58.3 damage
+Skarner dealing magic with 0 Mdamage
+Q COOLD DOWN-2.5
+TIME TO ATTACK: 9.4
+Skarner Attacking with 58.3 damage
+Skarner dealing magic with 0 Mdamage
+Q COOLD DOWN-3.5
+TIME TO ATTACK: 11
+Skarner Attacking with 58.3 damage
+Skarner dealing magic with 0 Mdamage
+Q COOLD DOWN-4.5
+TIME TO ATTACK: 12.5
+Skarner Attacking with 58.3 damage
+Skarner dealing magic with 0 Mdamage
+Q COOLD DOWN-5.5
+TIME TO ATTACK: 14.1
+Skarner Attacking with 58.3 damage
+Skarner dealing magic with 0 Mdamage
+Q COOLD DOWN-6.5
+TIME TO ATTACK: 15.7
+Skarner Attacking with 58.3 damage
+Skarner dealing magic with 0 Mdamage
+Q COOLD DOWN-7.5

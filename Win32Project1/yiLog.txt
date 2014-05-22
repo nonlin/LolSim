@@ -1,0 +1,45 @@
+TIME TO ATTCK: 0
+Master Yi Attacking with 58 damage
+Yi Recieved Damage of47.7869
+TIME TO ATTCK: 1.6
+Master Yi Attacking with 58 damage
+Yi Recieved Damage of47.7869
+TIME TO ATTCK: 3.1
+Master Yi Attacking with 58 damage
+Yi Recieved Damage of47.7869
+TIME TO ATTCK: 4.7
+Master Yi Attacking with 58 damage
+Yi Recieved Damage of47.7869
+Yi Passive 1st Attack!
+Master Yi Attacking with 58 damage
+2nd Crit!
+
+
+Master Yi Attacking with 29 damage
+TIME TO ATTCK: 6.3
+Master Yi Attacking with 58 damage
+Yi Recieved Damage of47.7869
+TIME TO ATTCK: 7.8
+Master Yi Attacking with 58 damage
+Yi Recieved Damage of47.7869
+Yi Recieved Damage of47.7869
+TIME TO ATTCK: 9.4
+Master Yi Attacking with 58 damage
+TIME TO ATTCK: 11
+Master Yi Attacking with 58 damage
+Yi Recieved Damage of47.7869
+Yi Passive 1st Attack!
+Master Yi Attacking with 58 damage
+2nd Crit!
+
+
+Master Yi Attacking with 29 damage
+TIME TO ATTCK: 12.5
+Master Yi Attacking with 58 damage
+Yi Recieved Damage of47.7869
+TIME TO ATTCK: 14.1
+Master Yi Attacking with 58 damage
+Yi Recieved Damage of47.7869
+TIME TO ATTCK: 15.7
+Master Yi Attacking with 58 damage
+Yi Recieved Damage of47.7869

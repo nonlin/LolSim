@@ -1,0 +1,4 @@
+-Trying to have user able to select a champ, only done for Champ1 atm
+-For some reason selecting 1 fixes skarners issue with his hit not registering in time.
+
+NO IDEA WHY
